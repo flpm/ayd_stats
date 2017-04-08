@@ -1,0 +1,8 @@
+name: eyd_stats
+account: flpm
+server: shinyapps.io
+bundleId: 521292
+url: https://flpm.shinyapps.io/eyd_stats/
+when: 1470086985.47932
+asMultiple: FALSE
+asStatic: FALSE

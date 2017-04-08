@@ -1,0 +1,9 @@
+name: ayd_stats
+account: flpm
+server: shinyapps.io
+appId: 117720
+bundleId: 781968
+url: https://flpm.shinyapps.io/ayd_stats/
+when: 1491684656.60708
+asMultiple: FALSE
+asStatic: FALSE
